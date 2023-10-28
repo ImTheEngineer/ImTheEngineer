@@ -46,7 +46,7 @@ Linguagens de Programação e Marcação
 
 
 ---
-## Carreira acadêmica:
+## 📚 Carreira acadêmica:
 
 
 [<img src="https://ebaconline.com.br/_nuxt/d58908d198123d3c50c18638f58abb26.svg" width="150">](https://ebaconline.com.br/)[<img src="https://sia.estacio.br/sianet/Content/SiteNovo/dist/img/icones/ico-estacio.png" width="70">](https://estacio.br/)[<img src="https://moodle.ifrs.edu.br/pluginfile.php/1/theme_academi/logo/1687732948/Logo_04.png" width="200">](https://moodle.ifrs.edu.br/?redirect=0)[<img src="https://cdn.shortpixel.ai/spai/w_235+q_+ret_img+to_webp/https://iaexpert.academy/wp-content/uploads/2020/06/iaexpert-logo-1.png" width="200">](https://iaexpert.academy/)
