@@ -30,7 +30,7 @@
 
 ## 👨‍🎓 Formações Concluidas:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width="65">](https://web.dio.me/track/formacao-sql-db-specialist)[<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" width="65">](https://web.dio.me/track/formacao-java-developer)[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="65">](https://web.dio.me/track/formacao-machine-learning-specialist)
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)[<img src="https://hermes.dio.me/tracks/47c61911-32bf-4324-a249-124d4f33d03f.png" width="65">](https://web.dio.me/track/formacao-unity-3d-game-developer)[<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" width="65">](https://web.dio.me/track/formacao-java-developer)[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="65">](https://web.dio.me/track/formacao-machine-learning-specialist)
 
 ## 💻 Familiaridade com:
 
