@@ -38,7 +38,6 @@ Linguagens de Programação e Marcação
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=256" width="50" title="Python">](https://www.python.org)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-22-225997.png?f=avif&w=256" width="50" title="Java">](www.java.com)
-[<img src="https://www.lua.org/images/logo.gif" width="50" title="Java">](www.java.com)
 [<img src="https://isocpp.org/assets/images/cpp_logo.png" width="50" title="Markdown">](https://isocpp.org/)
 [<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/javascript-2752148-2284965.png?f=avif&w=256" width="50" title="Java Script">](https://www.javascript.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-html-file-2330569-1950410.png?f=avif&w=256" width="50" title="HTML">](https://html.com)
