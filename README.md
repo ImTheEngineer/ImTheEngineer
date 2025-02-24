@@ -2,9 +2,10 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software Engineer%20and%20Front%20End;Experienced%20UI Design %2F Web Developer%20;&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20and%20Front%20End%20Developer;Experienced%20UI%20Designer%20%2F%20Web%20Developer&font=Roboto%20Mono&center=true&width=650&height=45&color=4CAF50&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
-</p>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
