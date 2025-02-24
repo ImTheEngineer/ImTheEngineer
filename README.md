@@ -11,7 +11,7 @@
 ## 💻 Minhas Habilidades
 
 ### 🛠️ **Hard Skills**
-#### **Frontend**:
+<h2>Front-End:</h2>
 <div>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="120" height="42" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="120" height="42" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" width="120" height="42" />
 </div>
 
-#### **Backend**:
+<h2>Back-End:</h2>
 <div>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="120" height="42" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" width="120" height="42" />
@@ -36,14 +36,14 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" width="120" height="42" />
 </div>
 
-#### **Banco de Dados**:
+<h2>Database:</h2>
 <div>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="120" height="42" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="120" height="42" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="120" height="42" />
 </div>
 
-#### **Outras Tecnologias**:
+<h2>Outras Tecnologias:</h2>
 <div>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="120" height="42" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="120" height="42" />
