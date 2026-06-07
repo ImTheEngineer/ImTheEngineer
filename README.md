@@ -1,94 +1,253 @@
-<h1 align="center">💻 Cientista de Dados & Especialista em IA</h1>
+<div align="center">
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20%7C%20Building%20Web%20Applications;Experienced%20Frontend%20and%20Backend%20Developer;%20JavaScript%20%2F%20Node.js%20%2F%20React&font=Roboto%20Mono&center=true&width=650&height=45&color=4CAF50&vCenter=true&pause=1000&size=22&effect=typing&speed=50&delim=%20" alt="Typing Animation" />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="React Code Animation"/>
-</p>
+# BackEnd Developer
+## **NestJS | Node | TypeScript | PostgreSQL**
 
-## 💻 Minhas Habilidades
+<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 120px; object-fit: cover; border-radius: 8px;"/>
 
-### 🛠️ **Hard Skills**
-<h2>Front-End:</h2>
-<div>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" width="120" height="42" />
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+*Transformando conhecimento técnico em aplicações funcionais e bem estruturadas*
+
 </div>
 
-<h2>Back-End:</h2>
-<div>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Django-092D45?style=flat&logo=django&logoColor=white" alt="Django" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Framework" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-JSP-2C6DBA?style=flat&logo=apachetomcat&logoColor=white" alt="JSP" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" width="120" height="42" />
+---
+
+<div align="center">
+
+## 🎯 Sobre Mim
+
 </div>
 
-<h2>Database:</h2>
-<div>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="120" height="42" />
+Sou um **Desenvolvedor Full-Stack** com formação técnica sólida em **Desenvolvimento de Sistemas (SENAC)** e cursando **Engenharia de Software (Estácio)**. 
+
+Meu foco está no ecossistema **TypeScript/JavaScript**, construindo aplicações completas com **Node.js no backend** e **React no frontend**.
+
+Acredito em **código bem estruturado, documentação clara e colaboração eficiente**. Busco um ambiente onde possa aplicar minhas habilidades enquanto aprendo com desenvolvedores mais experientes.
+
+---
+
+<div align="center">
+
+## 🛠 **Stack Tecnológica Principal**
+
 </div>
 
-<h2>Outras Tecnologias:</h2>
-<div>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Redis-D83B19?style=flat&logo=redis&logoColor=white" alt="Redis" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-GitLens-2A2A2A?style=flat&logo=gitlens&logoColor=white" alt="GitLens" width="120" height="42" />
-  <img src="https://img.shields.io/badge/-ShadCN-1F1F1F?style=flat&logo=shadcn&logoColor=white" alt="ShadCN" width="120" height="42" />
+### **Backend (Node.js/TypeScript)**
+```yaml
+Runtime & Frameworks:
+  - Node.js
+  - Express.js
+  - NestJS (em aprendizado)
+  - tRPC (básico)
+
+Banco de Dados & ORMs:
+  - PostgreSQL
+  - MongoDB
+  - Prisma
+  - TypeORM
+
+Desenvolvimento de API:
+  - RESTful APIs
+  - Autenticação JWT
+  - WebSocket (básico)
+  - Validação com Zod
+```
+
+### **Frontend (TypeScript/React)**
+```yaml
+Ecossistema React/Next.js:
+  - React 18+
+  - Next.js (App Router)
+  - TypeScript
+  - Vite
+
+Desenvolvimento UI/UX:
+  - Tailwind CSS
+  - CSS Modules
+  - Shadcn/ui (básico)
+  - Framer Motion (básico)
+
+Gerenciamento de Estado:
+  - Context API
+  - Zustand
+  - TanStack Query (aprendendo)
+```
+
+### **Ferramentas & DevOps**
+```yaml
+Ferramentas de Desenvolvimento:
+  - Git & GitHub
+  - VS Code
+  - Docker (básico)
+  - Insomnia / Postman
+
+Deploy & Cloud:
+  - Vercel
+  - Railway
+  - Render
+
+Qualidade de Código:
+  - ESLint / Prettier
+  - TypeScript strict mode
+  - Husky / lint-staged
+```
+
+---
+
+<div align="center">
+
+## 📁 **Projetos em Destaque**
+
 </div>
 
-### 🚀 **Outras Habilidades**
-- **Desenvolvimento Ágil** com **SCRUM** e **Kanban**
-- **Testes Automatizados** com **Jest** e **Mocha**
-- **DevOps**: Integração contínua e entrega contínua (CI/CD)
-- **Gestão de Projetos** com **Jira** e **Trello**
+### **Sistema de Gestão Acadêmica**
+**Stack:** Node.js + Express + React + PostgreSQL + Prisma
+- API REST completa com autenticação JWT e controle de acesso
+- Dashboard administrativo com relatórios e gráficos
+- Sistema de matrículas, notas e frequência
+- 100% tipado com TypeScript
+- [🔗 Ver Repositório](https://github.com/seuusuario/sistema-academico)
 
+### **E-commerce Moderno**
+**Stack:** Next.js 14 + TypeScript + Tailwind + Stripe
+- App Router com Server Components e Server Actions
+- Carrinho de compras com persistência no localStorage
+- Integração com API de pagamentos (modo sandbox)
+- Design responsivo seguindo boas práticas de UX
+- [🔗 Ver Repositório](https://github.com/seuusuario/ecommerce-next)
 
-<p align="center">
-  Essas são as principais tecnologias com as quais trabalho no dia a dia. Estou sempre em busca de aprender mais e me atualizar com as ferramentas mais modernas do mercado!
-</p>
+### **API de Blog com Arquitetura Modular**
+**Stack:** NestJS + PostgreSQL + Swagger + Redis
+- Arquitetura limpa com controllers, services e repositories
+- Documentação automática com Swagger UI
+- Sistema de comentários aninhados e votos
+- Cache com Redis para melhor performance
+- [🔗 Ver Repositório](https://github.com/seuusuario/blog-api-nest)
 
-## 🎓 Minhas Formações Acadêmicas
+---
 
-Aqui estão as instituições onde eu estudei e continuo aprendendo:
+<div align="center">
 
-### 📚 Cursos e Graduação
+## 🏗 **Como Trabalho**
 
-- **Análise e Desenvolvimento de Sistemas (ADS)**  
-  📍 **Anhanguera**  
-  ![Anhanguera](https://portalinstitucional-assets.azureedge.net/strapi/assets/Logo_Anhanguera_Horizontal_170x60px_1_d985ea5183.svg)  
+</div>
 
-- **Tecnologia em Desenvolvimento de Sistemas**  
-  📍 **SENAC**  
-  ![SENAC](https://www.ead.senac.br/public/assets/img/logo.png)  
+### **Princípios de Desenvolvimento**
+- **Código Tipado**: TypeScript em todos os projetos novos
+- **Clean Code**: Nomes significativos, funções pequenas, responsabilidade única
+- **Documentação**: README claro, comentários onde necessário
+- **Versionamento**: Commits semânticos, branches organizadas
 
-- **Formação em Programador Web**  
-  📍 **IFRS (Instituto Federal do Rio Grande do Sul)**  
-  <img src="https://moodle.ifrs.edu.br/pluginfile.php/1/theme_academi/logo/1724788800/Logo_04.png" alt="IFRS" width="150" height="auto"/>
+### **Exemplo de Abordagem**
+```typescript
+// Minha filosofia em código:
+interface DevelopmentApproach {
+  readonly: true;           // Código legível
+  maintainable: true;       // Fácil de modificar
+  stronglyTyped: true;      // TypeScript everywhere
+  tested: 'learning';       // Estudando testes
+  documented: true;         // Bem explicado
+}
 
-### 📖 Cursos Online
+// Implementação prática:
+async function registerUser(userData: UserRegistrationDto) {
+  // 1. Validação estrita
+  const validated = await registrationSchema.parseAsync(userData);
+  
+  // 2. Lógica de negócio clara
+  const hashedPassword = await bcrypt.hash(validated.password, 10);
+  
+  // 3. Operação no banco com transação
+  const user = await prisma.$transaction(async (tx) => {
+    return await tx.user.create({
+      data: {
+        email: validated.email,
+        password: hashedPassword,
+        profile: {
+          create: {
+            name: validated.name,
+          },
+        },
+      },
+    });
+  });
+  
+  // 4. Retorno tipado e seguro
+  return exclude(user, ['password']);
+}
+```
 
-- **Cursos de Desenvolvimento Web e Full Stack**  
-  📍 **DIO (Digital Innovation One)**  
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMXkX2MglNXKTnjGnjKrvVu-qPnPB58gAppU1T4XWO3FyBEZMnooLEBjKbKGPXEqUlEM&usqp=CAU" alt="DIO" width="150" height="auto"/>
+---
+
+<div align="center">
+
+## 📚 **Aprendizado Contínuo**
+
+</div>
+
+### **Foco Atual**
+```yaml
+Consolidando:
+  - TypeScript Advanced Types
+  - Next.js App Router
+  - PostgreSQL Performance
+  - API Design Patterns
+
+Aprendendo:
+  - Testes Automatizados (Jest, RTL)
+  - Docker & Containerização
+  - GraphQL Fundamentals
+  - CI/CD Básico
+
+Interesses:
+  - Clean Architecture
+  - Message Queues (Redis)
+  - Monitoring & Observability
+  - Serverless Functions
+```
+
+---
+
+<div align="center">
+
+## 🎓 **Formação Acadêmica**
+
+</div>
+
+- **Engenharia de Software** - Estácio *(Cursando)*
+- **Tecnólogo em Desenvolvimento de Sistemas** - SENAC *(Concluído)*
+- **Técnico em Informática para Internet** - SENAC *(Cursando)*
+
+---
+
+<div align="center">
+
+## 📞 **Entre em Contato**
+
+</div>
+
+Estou buscando oportunidades como **Desenvolvedor Full-Stack** onde possa contribuir com minhas habilidades técnicas enquanto continuo aprendendo e crescendo profissionalmente.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertosilva.rc42@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertosilva42/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Entendo que ainda tenho muito a aprender, mas sei o suficiente para construir coisas que funcionam e agregam valor."*
+
+</div>
+```
 
 ---
